@@ -25,8 +25,8 @@
 ### 🚀 About Me
 
 - 🎓 B.Tech in Computer Science Engineering @ **Rawal Institute of Engineering and Technology** (CGPA: 8.05)
-- ☁️ Passionate about **DevOps, Cloud Infrastructure, and GitOps automation**
-- 🔧 I design and ship **end-to-end CI/CD pipelines** using GitHub Actions, Jenkins, and Argo CD
+- ☁️ Passionate about **DevOps, Cloud Infrastructure, and Cybersecurity**
+- 🔧 I design and ship **end-to-end CI/CD pipelines** using GitHub Actions, Jenkins
 - 🛡️ Growing focus on **Cloud Security** — vulnerability scanning, log analysis, and secure deployments
 - 🌱 Currently deepening my expertise in **Kubernetes, Terraform, and multi-cloud architecture**
 - 📫 Reach me at **santoshk01@zohomail.in**
