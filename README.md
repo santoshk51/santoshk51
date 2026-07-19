@@ -126,14 +126,12 @@ End-to-end CI/CD with Jenkins + Argo CD, integrated SonarQube/Trivy/OWASP scanni
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=santoshk51&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=2EA043&icon_color=2EA043&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshk51&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2EA043&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=santoshk51&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2EA043&icon_color=2EA043" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshk51&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2EA043" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=santoshk51&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2EA043&fire=2EA043" />
 </p>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=santoshk51&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
 </p>
