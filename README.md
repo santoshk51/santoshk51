@@ -119,7 +119,7 @@ End-to-end CI/CD with Jenkins + Argo CD, integrated SonarQube/Trivy/OWASP scanni
 </tr>
 </table>
 
-> 💡 *Update the "View Repo" links above with your actual repository URLs once pinned.*
+
 
 ---
 
