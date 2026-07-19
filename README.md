@@ -25,8 +25,8 @@
 ### 🚀 About Me
 
 - 🎓 B.Tech in Computer Science Engineering @ **Rawal Institute of Engineering and Technology** (CGPA: 8.05)
-- ☁️ Passionate about **DevOps, Cloud Infrastructure, and Cybersecurity**
-- 🔧 I design and ship **end-to-end CI/CD pipelines** using GitHub Actions, Jenkins
+- ☁️ Passionate about **DevOps, Cloud Infrastructure, and GitOps automation**
+- 🔧 I design and ship **end-to-end CI/CD pipelines** using GitHub Actions, Jenkins, and Argo CD
 - 🛡️ Growing focus on **Cloud Security** — vulnerability scanning, log analysis, and secure deployments
 - 🌱 Currently deepening my expertise in **Kubernetes, Terraform, and multi-cloud architecture**
 - 📫 Reach me at **santoshk01@zohomail.in**
@@ -119,7 +119,7 @@ End-to-end CI/CD with Jenkins + Argo CD, integrated SonarQube/Trivy/OWASP scanni
 </tr>
 </table>
 
-
+> 💡 *Update the "View Repo" links above with your actual repository URLs once pinned.*
 
 ---
 
@@ -129,9 +129,11 @@ End-to-end CI/CD with Jenkins + Argo CD, integrated SonarQube/Trivy/OWASP scanni
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=santoshk51&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2EA043&icon_color=2EA043" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshk51&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2EA043" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=santoshk51&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2EA043&fire=2EA043" />
 </p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=santoshk51&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
 </p>
